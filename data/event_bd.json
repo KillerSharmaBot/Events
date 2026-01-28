@@ -1,0 +1,129 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Creator Contest",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_CreatorContestAnnoBD_en.jpg",
+        "Start": "1767931200",
+        "End": "1769882399",
+        "LinkAlt": "https://www.facebook.com/groups/craftlandbd/posts/888864063639224/"
+      },
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_TheLatestUpdatesAnno_en.jpg",
+        "Start": "1742767200",
+        "End": "4108831199",
+        "LinkAlt": "https://www.instagram.com/freefirebdofficial/"
+      },
+      {
+        "Title": "Watch The Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_WatchTheBattleUnfoldAnno_en.jpg",
+        "Start": "1742767200",
+        "End": "4108831199",
+        "LinkAlt": "https://www.youtube.com/@FreeFireBangladeshOfficialYT"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_StayInLoopAnno_en.jpg",
+        "Start": "1742767200",
+        "End": "4108831199",
+        "LinkAlt": "https://www.facebook.com/bangladeshofficialfreefire"
+      },
+      {
+        "Title": "Changes to JJK Hammer",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/NoticeBanner_en.jpg",
+        "Details": "Dear Survivors,\n\nWe've received feedbacks regarding the Jujutsu Hammer. Therefore, the stats of the Hammer will be adjusted to:\nKugisaki Hammer (Lv1/Lv2/Lv3):\nDamage: -15%\nLimb Damage: -25%\nMagazine Size: 12 → 5\n\nThe adjustments have been made. Thank you for your feedback and support!",
+        "Start": "1768413600",
+        "End": "1771005599"
+      },
+      {
+        "Title": "Quick Clips, Big Hits!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_QuickClipsBigHitsAnnoBD_en.jpg",
+        "Start": "1742767200",
+        "End": "4108831199",
+        "LinkAlt": "https://www.tiktok.com/@bdofficialfreefire"
+      },
+      {
+        "Title": "Changes to JJK Weapons",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/NoticeBanner_en.jpg",
+        "Details": "Dear Survivors,\n\nWe’ve received feedback that the Desert Eagle - Recharge starts with only 7 rounds and pistol ammo is difficult to find in BR. We've made the following adjustments: you can now get 30 free pistol ammo in the Vending Machine for your Desert Eagle - Recharge.\n\nAdditionally, we’re still seeing feedback that the Kugisaki Hammer remains too strong and too easy to obtain. To address this, we’re increasing the price of the Hammer:\n\nHammer I: 50 (no change)\nHammer II: 50 → 100\nHammer III: 100 → 200\n\nThis change is live now.\n\nThank you for your continued feedback and support, and we wish you Happy Booyah!",
+        "Start": "1768413600",
+        "End": "1771005599"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "FF x Choppy Cuts PV",
+        "Start": "1769551200",
+        "End": "1769637599",
+        "Link": "https://youtu.be/Kin_rE6xLrM",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_ChoppyCutsNewSplashBD_en.jpg"
+      },
+      {
+        "Title": "Mystery Shop: NOBARA KUGISAKI BUNDLE + STRAW DOLL TECHNIQUE EMOTE*",
+        "Start": "1769810400",
+        "End": "1769896799",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_MSNobaraSplashBD_en.jpg"
+      },
+      {
+        "Title": "Mystery Shop: NOBARA KUGISAKI BUNDLE + STRAW DOLL TECHNIQUE EMOTE*",
+        "Start": "1769724000",
+        "End": "1769767199",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_MSNobaraSplashBD_en.jpg"
+      },
+      {
+        "Title": "JJK The Honored One",
+        "Start": "1769637600",
+        "End": "1769723999",
+        "Link": "V2_category_5_groupID_99317",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_TheHoneredOneNewSplashBD_en.jpg"
+      },
+      {
+        "Title": "JJK The Honored One",
+        "Start": "1769724000",
+        "End": "1769810399",
+        "Link": "V2_category_5_groupID_99317",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_TheHoneredOneNewSplashBD_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: MALEVOLENT SHRINE ARRIVAL ANIMATION**",
+        "Start": "1769551200",
+        "End": "1769637599",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_FWMalevolentShrineSplashBD_en.jpg"
+      },
+      {
+        "Title": "JJK Special Grade Truck",
+        "Start": "1769810400",
+        "End": "1769896799",
+        "Link": "V2_category_5_groupID_99316",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_JJKSpecialGradeTruckBD_en.jpg"
+      },
+      {
+        "Title": "Mystery Shop: NOBARA KUGISAKI BUNDLE + STRAW DOLL TECHNIQUE EMOTE*",
+        "Start": "1769781600",
+        "End": "1769810399",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_MSNobaraSplashBD_en.jpg"
+      },
+      {
+        "Title": "Sukuna Ring: RYOMEN SUKUNA BUNDLE**",
+        "Start": "1769637600",
+        "End": "1769723999",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1750x1070_SukunaRingSplashBD_en.jpg"
+      },
+      {
+        "Title": "RTG 2026 Grand Final",
+        "Start": "1769767200",
+        "End": "1769781599",
+        "Link": "https://youtube.com/live/CzKtpIZvkx0?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/RTG26GrandFinalSplashBD_en.jpg"
+      }
+    ]
+  }
+}
