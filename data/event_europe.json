@@ -1,0 +1,101 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "The Latest Updates",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_TheLatestUpdatesAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.instagram.com/freefiretr.official/"
+      },
+      {
+        "Title": "Watch The Battle Unfold",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_WatchTheBattleUnfoldAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.youtube.com/c/GarenaFreeFireT%C3%BCrkiye"
+      },
+      {
+        "Title": "Stay in the Loop",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/1400x700_StayInLoopAnno_en.jpg",
+        "Start": "1742781600",
+        "End": "4108845599",
+        "LinkAlt": "https://www.facebook.com/FreeFireTR/"
+      },
+      {
+        "Title": "Changes to JJK Hammer",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/NoticeBanner_en.jpg",
+        "Details": "Dear Survivors,\n\nWe've received feedbacks regarding the Jujutsu Hammer. Therefore, the stats of the Hammer will be adjusted to:\nKugisaki Hammer (Lv1/Lv2/Lv3):\nDamage: -15%\nLimb Damage: -25%\nMagazine Size: 12 → 5\n\nThe adjustments have been made. Thank you for your feedback and support!",
+        "Start": "1768428000",
+        "End": "1771019999"
+      },
+      {
+        "Title": "Changes to JJK Weapons",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/336x580_notice_en.jpg",
+        "Details": "Dear Survivors, \n\nWe’ve received feedback that the Desert Eagle - Recharge starts with only 7 rounds and pistol ammo is difficult to find in BR. We've made the following adjustments: you can now get 30 free pistol ammo in the Vending Machine for your Desert Eagle - Recharge. \n\nAdditionally, we’re still seeing feedback that the Kugisaki Hammer remains too strong and too easy to obtain. To address this, we’re increasing the price of the Hammer:  \n\nHammer I: 50 (no change) \n\nHammer II: 50 → 100 \n\nHammer III: 100 → 200  \n\nThis change is live now.  \n\nThank you for your continued feedback and support, and we wish you Happy Booyah!\"",
+        "Start": "1767340800",
+        "End": "1771019999"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "JJK The Honored One",
+        "Start": "1769738400",
+        "End": "1769824799",
+        "Link": "V2_category_5_groupID_99318",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/thenwhonerone79IUthg_en.jpg"
+      },
+      {
+        "Title": "Mystery Shop: NOBARA KUGISAKI BUNDLE + STRAW DOLL TECHNIQUE EMOTE*",
+        "Start": "1769824800",
+        "End": "1769911199",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/MSNoH7H8_en.jpg"
+      },
+      {
+        "Title": "FF x Choppy Cuts PV",
+        "Start": "1769565600",
+        "End": "1769651999",
+        "Link": "https://youtu.be/5x7Owy1cCXc?si=vVtLDoi3lGF-O7EE",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/ChoppyCuts98HghB_en.jpg"
+      },
+      {
+        "Title": "Sukuna Ring: RYOMEN SUKUNA BUNDLE** ",
+        "Start": "1769652000",
+        "End": "1769738399",
+        "Link": "V2_chestId_89",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Sukungring842Nhi_en.jpg"
+      },
+      {
+        "Title": "Faded Wheel: MALEVOLENT SHRINE ARRIVAL ANIMATION**",
+        "Start": "1769565600",
+        "End": "1769651999",
+        "Link": "V2_chestId_19",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/MLShrine0YtH68_en.jpg"
+      },
+      {
+        "Title": "Mystery Shop: NOBARA KUGISAKI BUNDLE + STRAW DOLL TECHNIQUE EMOTE*",
+        "Start": "1769738400",
+        "End": "1769824799",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/MSNoH7H8_en.jpg"
+      },
+      {
+        "Title": "[ALL] JJK Special Grade Truck",
+        "Start": "1769824800",
+        "End": "1769911199",
+        "Link": "V2_category_5_groupID_99316",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/Specialgradedtruck9998HnJ_en.jpg"
+      },
+      {
+        "Title": "JJK The Honored One",
+        "Start": "1769652000",
+        "End": "1769738399",
+        "Link": "V2_category_5_groupID_99318",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/thenwhonerone79IUthg_en.jpg"
+      }
+    ]
+  }
+}
