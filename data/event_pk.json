@@ -85,6 +85,13 @@
         "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_SukunaRing_en.jpg"
       },
       {
+        "Title": "BPS38",
+        "Start": "1769900400",
+        "End": "1769986799",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_BPS38_en.jpg"
+      },
+      {
         "Title": "MSNobaraKugisaki",
         "Start": "1769814000",
         "End": "1769936399",
@@ -104,20 +111,6 @@
         "End": "1769900399",
         "Link": "V2_category_5_groupID_26012101",
         "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_JJK26_SpecialGradeTruckPK_en.jpg"
-      },
-      {
-        "Title": "FFChoppyCuts",
-        "Start": "1769554800",
-        "End": "1769641199",
-        "Link": "https://youtu.be/h3rV7r1tXNs",
-        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_FFChoppyCuts1_en.jpg"
-      },
-      {
-        "Title": "Malevolent Shrine",
-        "Start": "1769554800",
-        "End": "1769641199",
-        "Link": "V2_chestId_19",
-        "Banner": "https://dl.dir.freefiremobile.com/common/Local/BD/Splashanno/1750x1070_MalevolentShrine_en.jpg"
       },
       {
         "Title": "JJK26_TheHonoredOnePK1",
