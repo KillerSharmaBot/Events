@@ -1,0 +1,49 @@
+{
+  "updates": {},
+  "events": {
+    "items": [
+      {
+        "Title": "PM FW Sukuna Arrival Animation + Lootbox",
+        "Start": "1769576400",
+        "End": "1769749199",
+        "Link": "29",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWSu0128_1750x1070_es.png"
+      },
+      {
+        "Title": "Al Infinito",
+        "Start": "1769576400",
+        "End": "1769749199",
+        "Link": "V2_category_5_groupId_51022",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/ALI0128_1750x1070_es.png"
+      },
+      {
+        "Title": "Double Prime Points",
+        "Start": "1769576400",
+        "End": "1769749199",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/GADo0128_1750x1070_es.png"
+      },
+      {
+        "Title": "Fushiguro Bundle",
+        "Start": "1769749200",
+        "End": "1769835599",
+        "Link": "V2_mallType_1_firstTab_1_storeid_710052003",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/SHFu0130_1750x1070_es.png"
+      },
+      {
+        "Title": "Yuji Emote + Backpack",
+        "Start": "1769835600",
+        "End": "1769921999",
+        "Link": "49",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/FWYu0131_1750x1070_es.png"
+      },
+      {
+        "Title": "Nobara Bundle",
+        "Start": "1769749200",
+        "End": "1769921999",
+        "Link": "V2",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/MSNo0130_1750x1070_es.png"
+      }
+    ]
+  }
+}
