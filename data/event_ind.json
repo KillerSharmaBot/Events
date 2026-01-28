@@ -88,13 +88,6 @@
         "End": "1769877000"
       },
       {
-        "Title": "Faded Wheel: MALEVOLENT SHRINE ARRIVAL ANIMATION**",
-        "Start": "1769553000",
-        "End": "1769639399",
-        "Link": "V2_chestId_19",
-        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_FWMalevolentShrineSplashIND_en.jpg"
-      },
-      {
         "Title": "Sukuna Ring: RYOMEN SUKUNA BUNDLE**",
         "Start": "1769639400",
         "End": "1769725799",
@@ -114,13 +107,6 @@
         "End": "1769898599",
         "Link": "V2_category_5_groupID_95361",
         "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_JJKSpecialGradeTruckIND_en.jpg"
-      },
-      {
-        "Title": "BPL Mastermind",
-        "Start": "1769574600",
-        "End": "1769639399",
-        "Link": "https://kolcricketleague.web.freefireindiamobile.com/?region=<FF_REGION>&lang=<FF_LANGUAGE>&access_token=<GARENA_TOKEN>",
-        "Banner": "https://dl-tata.freefireind.in/common/Local/IND/config/1750x1070_BPLMastermindSplashIND_en.jpg"
       }
     ]
   }
