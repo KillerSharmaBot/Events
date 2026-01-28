@@ -86,7 +86,7 @@ themeToggle.addEventListener('click',()=>{const isDark=document.body.classList.t
 function escapeHtml(unsafe){return String(unsafe).replace(/[&<>\"']/g,function(m){return({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#039;'})[m]})}
 function cleanString(str,maxLen=800){if(!str)return'';str=String(str).replace(/\\r\\n|\\r|\\n/g,'\\n').replace(/\\+/g,'\\\\');str=str.replace(/[\\#]/g,'');str=str.replace(/\\n{3,}/g,'\\n\\n');if(str.length>maxLen){str=str.slice(0,maxLen)+'...'}return escapeHtml(str).replace(/\\n/g,'<br>')}
 function generateUID(seed){seed=seed||(Date.now()+Math.random()).toString();let hash=2166136261>>>0;for(let i=0;i<seed.length;i++){hash=Math.imul(hash^seed.charCodeAt(i),16777619)>>>0}return'UID-'+(hash%1000000).toString().padStart(6,'0')}
-const FALLBACK_IMAGE='https://raw.githubusercontent.com/KillerSharmaBot/Event/main/Image%20Not%20Found.png';
+const FALLBACK_IMAGE='https://raw.githubusercontent.com/KillerSharmaBot/Events/main/Image%20Not%20Found.png';
 function imageLoaded(img){const parent=img.parentElement;const shimmer=parent.querySelector('.shimmer');if(shimmer)shimmer.remove();img.classList.add('loaded')}
 function imageError(img){const parent=img.parentElement;const shimmer=parent.querySelector('.shimmer');if(shimmer)shimmer.remove();img.onerror=null;img.src=FALLBACK_IMAGE;img.classList.add('loaded');}
 let eventsData=[];
@@ -149,7 +149,7 @@ updatesCount.textContent=`(${filteredUpdates.length})`}
 async function fetchData(){
 eventsContainer.innerHTML=`<div class="loading">${getTranslation('loading')}</div>`;
 updatesContainer.innerHTML=`<div class="loading">${getTranslation('loading')}</div>`;
-try{const response=await fetch(`https://raw.githubusercontent.com/KillerSharmaBot/Event/main/data/event_${currentRegion.toLowerCase()}.json`);const data=await response.json();eventsData=(data.events&&data.events.items)||[];updatesData=(data.updates&&data.updates.items)||[];render()}catch(e){eventsContainer.innerHTML=`<div class="error">${getTranslation('error')}</div>`;updatesContainer.innerHTML=`<div class="error">${getTranslation('error')}</div>`}}
+try{const response=await fetch(`https://raw.githubusercontent.com/KillerSharmaBot/Events/main/data/event_${currentRegion.toLowerCase()}.json`);const data=await response.json();eventsData=(data.events&&data.events.items)||[];updatesData=(data.updates&&data.updates.items)||[];render()}catch(e){eventsContainer.innerHTML=`<div class="error">${getTranslation('error')}</div>`;updatesContainer.innerHTML=`<div class="error">${getTranslation('error')}</div>`}}
 document.getElementById('searchBox').addEventListener('input',render);
 document.querySelectorAll('.filter-btn').forEach(btn=>{btn.addEventListener('click',()=>{document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));btn.classList.add('active');activeFilter=btn.dataset.filter||'all';render()})});
 document.getElementById('onlyFavorites').addEventListener('change',render);
