@@ -55,18 +55,18 @@
         "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/JJK_TheHonoredOne_Splash_OKE48RU_ru.jpg"
       },
       {
-        "Title": "FfxChoppy_Cuts",
-        "Start": "1769562000",
-        "End": "1769648399",
-        "Link": "https://youtu.be/P7-WpH1ITTo",
-        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FFxChoppy_Cuts_Splash_OKE48RU_ru.jpg"
-      },
-      {
         "Title": "JJK_TheHonoredOne_Splash",
         "Start": "1769648400",
         "End": "1769734799",
         "Link": "V2_category_6_groupID_95374",
         "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/JJK_TheHonoredOne_Splash_OKE48RU_ru.jpg"
+      },
+      {
+        "Title": "BPRing_BPS38",
+        "Start": "1769907600",
+        "End": "1769993999",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/BPRing_BPS38_Splash_OKE48RU_ru.jpg"
       },
       {
         "Title": "MS_Nobura_KUGISAKI_Splash",
@@ -81,13 +81,6 @@
         "End": "1769936399",
         "Link": "V2",
         "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/MS_Nobura_KUGISAKI_Splash_OKE48RU_ru.jpg"
-      },
-      {
-        "Title": "FW_MalevolentShrine_Splash",
-        "Start": "1769562000",
-        "End": "1769648399",
-        "Link": "V2_chestId_19",
-        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FW_MalevolentShrine_Splash_OKE48RU_ru.jpg"
       }
     ]
   }
