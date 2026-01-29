@@ -1,0 +1,105 @@
+{
+  "updates": {
+    "items": [
+      {
+        "Title": "Resgate código aqui",
+        "Link": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>",
+        "Start": "1737514800",
+        "End": "2054084399",
+        "LinkAlt": "https://reward.ff.garena.com/pt?access_token=<GARENA_TOKEN>"
+      },
+      {
+        "Title": "Questionário",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB39/US/Questionario0501_336x580_pt.jpg",
+        "Link": "https://survey-site.com?fid=c43966e91e9553dd3d12467c663a711b&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>",
+        "Details": "Sua opinião é muito importante para a gente! Nesta pesquisa vamos conversar sobre o seu sentimento relacionado aos mecanismos de Menu Royale como o Token Royale, Escolha Royale e Torre de Tokens, além de eventos de desconto, loja e do posicionamento e precificação dos nossos últimos lançamentos.",
+        "Start": "1769569200",
+        "End": "1769828399",
+        "LinkAlt": "https://survey-site.com?fid=c43966e91e9553dd3d12467c663a711b&access_token=<GARENA_TOKEN>&lang=<FF_LANGUAGE>&region=<FF_REGION>"
+      },
+      {
+        "Title": "Nova Temporada BR",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB51/BR/BR_S49_LK548_1400x700_BR_pt.png",
+        "Link": "V2_Team_1_Match_2_Map_1_Game_1",
+        "Start": "1767261600",
+        "End": "1772333999",
+        "LinkAlt": "V2_Team_1_Match_2_Map_1_Game_1"
+      },
+      {
+        "Title": "Claro Prezão",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB51/BR/Claro_Prezao_3_1400x700_BR_pt.png",
+        "Link": "https://keepon.media/claro/freefire?utm_source=freefire&utm_medium=banner",
+        "Start": "1769310000",
+        "End": "1769828399",
+        "LinkAlt": "https://keepon.media/claro/freefire?utm_source=freefire&utm_medium=banner"
+      },
+      {
+        "Title": "Nova Temporada CS!",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB51/BR/CS_S34_1400x700_BR_pt.png",
+        "Link": "V2_Team_1_Match_6_Map_1_Game_15",
+        "Start": "1764583200",
+        "End": "1769914799",
+        "LinkAlt": "V2_Team_1_Match_6_Map_1_Game_15"
+      }
+    ]
+  },
+  "events": {
+    "items": [
+      {
+        "Title": "[REVENUE] Nobara Bundle PCQH65",
+        "Start": "1769742000",
+        "End": "1769914799",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Nobara_Bundle_PCQH65_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Booyah Pass S38",
+        "Start": "1769914800",
+        "End": "1769961599",
+        "Link": "V2_BPTYPE_0_Level_0_rewardType_0",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Booyah_Pass_S38_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Sukuna Arrival Animation APQJ5",
+        "Start": "1769569200",
+        "End": "1769741999",
+        "Link": "970653",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Sukuna_Arrival_Animation_APQJ5_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Sukuna Bundle JKH67",
+        "Start": "1769655600",
+        "End": "1769741999",
+        "Link": "970651",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Sukuna_Bundle_JKH67_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Sukuna Bundle JKH67",
+        "Start": "1769828400",
+        "End": "1769875199",
+        "Link": "970651",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Sukuna_Bundle_JKH67_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Sukuna Bundle JKH67",
+        "Start": "1769882400",
+        "End": "1769914799",
+        "Link": "970651",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Sukuna_Bundle_JKH67_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[REVENUE] Yuji Sukuna Theme Fist 98RJF",
+        "Start": "1769742000",
+        "End": "1769828399",
+        "Link": "970650",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/Yuji_Sukuna_Theme_Fist_98RJF_1750x1070_BR_pt.png"
+      },
+      {
+        "Title": "[e-SPORTS] COPA FF 1",
+        "Start": "1769875200",
+        "End": "1769882399",
+        "Link": "https://youtube.com/live/zS3QSEKITCw?feature=share",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/BR/COPA_FF_1_1750x1070_BR_pt.png"
+      }
+    ]
+  }
+}
