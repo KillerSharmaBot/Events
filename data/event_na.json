@@ -55,18 +55,18 @@
   "events": {
     "items": [
       {
+        "Title": "BPRing_BPS38",
+        "Start": "1769932800",
+        "End": "1770019199",
+        "Link": "V2_chestId_88",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/BPRing_BPS38_Splash_OKE48NA_en.jpg"
+      },
+      {
         "Title": "JJKSpecialGradeTruck_Splash",
         "Start": "1769846400",
         "End": "1769932799",
         "Link": "V2_category_6_groupID_95408",
         "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/JJKSpecialGradeTruck_Splash_OKE48NA_en.jpg"
-      },
-      {
-        "Title": "FW_MalevolentShrine_Splash",
-        "Start": "1769587200",
-        "End": "1769673599",
-        "Link": "V2_chestId_19",
-        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FW_MalevolentShrine_Splash_OKE48NA_en.jpg"
       },
       {
         "Title": "SukunaRing_Splash",
@@ -81,13 +81,6 @@
         "End": "1769932799",
         "Link": "V2",
         "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/MS_Nobura_KUGISAKI_Splash_OKE48NA_en.jpg"
-      },
-      {
-        "Title": "FfxChoppy_Cuts",
-        "Start": "1769587200",
-        "End": "1769673599",
-        "Link": "https://youtu.be/MGR82eaTqDU",
-        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/FFxChoppy_CutsV1_Splash_OKE48NA_en.jpg"
       },
       {
         "Title": "MS_Nobura_KUGISAKI_Splash",
