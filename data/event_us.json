@@ -17,6 +17,19 @@
         "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/ALI0128_1750x1070_es.png"
       },
       {
+        "Title": "CS S35",
+        "Start": "1769922000",
+        "End": "1770008399",
+        "Link": "V2_Team_1_Match_6_Map_1_Game_15",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/CS350102_1750x1070_es.png"
+      },
+      {
+        "Title": "BP S38",
+        "Start": "1769922000",
+        "End": "1770008399",
+        "Link": "V2_BPTYPE_0_Level_0_rewardType_0"
+      },
+      {
         "Title": "Double Prime Points",
         "Start": "1769576400",
         "End": "1769749199",
@@ -29,6 +42,13 @@
         "End": "1769835599",
         "Link": "V2_mallType_1_firstTab_1_storeid_710052003",
         "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/SHFu0130_1750x1070_es.png"
+      },
+      {
+        "Title": "Prime Store Rotation",
+        "Start": "1769922000",
+        "End": "1770008399",
+        "Link": "V2_mallType_1_firstTab_106",
+        "Banner": "https://dl.dir.freefiremobile.com/common/OB52/US/SHPri0201_880x520_es.png"
       },
       {
         "Title": "Yuji Emote + Backpack",
