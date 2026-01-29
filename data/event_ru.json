@@ -48,6 +48,13 @@
         "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/SukunaRing_Splash_OKE48RU_ru.jpg"
       },
       {
+        "Title": "CS_Overtime Mission",
+        "Start": "1769936400",
+        "End": "1769993999",
+        "Link": "V2_category_6_groupID_95379",
+        "Banner": "https://dl.dir.freefiremobile.com/common/Local/IND/config/CS_Overtime_Splash_OKE48RU_ru.jpg"
+      },
+      {
         "Title": "JJK_TheHonoredOne_Splash",
         "Start": "1769734800",
         "End": "1769821199",
