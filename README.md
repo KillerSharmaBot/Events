@@ -17,9 +17,9 @@ This project helps users track events in one place and supports features like fa
 
 ---
 
-## 📌 Live Preview
+## 📌 Screenshot Preview
 
-![FF Events Preview](https://image.thum.io/get/width/1200/https://killersharmabot.github.io/Events)
+![](https://raw.githubusercontent.com/KillerSharmaBot/Events/refs/heads/main/image.jpg)
 
 ---
 
