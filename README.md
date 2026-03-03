@@ -18,7 +18,7 @@ This project helps users track events in one place and supports features like fa
 ---
 
 ## 📌 Screenshots
-*(https://raw.githubusercontent.com/KillerSharmaBot/Events/refs/heads/main/image.jpg))*
+*![](https://raw.githubusercontent.com/KillerSharmaBot/Events/refs/heads/main/image.jpg))*
 
 ---
 
