@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- Main URL -->
+    <url>
+        <loc>https://killersharmabot.github.io/Events/</loc>
+        <lastmod>2026-03-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        
+        <!-- Alternate language versions -->
+        <xhtml:link rel="alternate" hreflang="en" href="https://killersharmabot.github.io/Events/" />
+        <xhtml:link rel="alternate" hreflang="hi" href="https://killersharmabot.github.io/Events/?lang=hi" />
+        <xhtml:link rel="alternate" hreflang="bn" href="https://killersharmabot.github.io/Events/?lang=bn" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://killersharmabot.github.io/Events/" />
+    </url>
+    
+    <!-- Region-specific URLs -->
+    <url>
+        <loc>https://killersharmabot.github.io/Events/?region=IND</loc>
+        <lastmod>2026-03-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://killersharmabot.github.io/Events/?region=BR</loc>
+        <lastmod>2026-03-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://killersharmabot.github.io/Events/?region=BD</loc>
+        <lastmod>2026-03-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://killersharmabot.github.io/Events/?region=PK</loc>
+        <lastmod>2026-03-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://killersharmabot.github.io/Events/?region=SG</loc>
+        <lastmod>2026-03-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
