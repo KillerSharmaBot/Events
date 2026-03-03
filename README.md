@@ -18,8 +18,7 @@ This project helps users track events in one place and supports features like fa
 ---
 
 ## 📌 Screenshots
-
-*(Add screenshots here when available)*
+*(https://raw.githubusercontent.com/KillerSharmaBot/Events/refs/heads/main/image.jpg))*
 
 ---
 
@@ -35,7 +34,7 @@ This project helps users track events in one place and supports features like fa
 ## 💡 How to Use
 
 1. Open the site in a browser:
-   https://killersharmabot.github.io/Events/
+   https://killersharmabot.github.io/Events
 
 2. Wait for the events to load.
 
